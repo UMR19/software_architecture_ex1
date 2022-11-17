@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TaxCaculateClient/TaxCaculateClient.iml" filepath="$PROJECT_DIR$/TaxCaculateClient/TaxCaculateClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/software_architecture_ex1.iml" filepath="$PROJECT_DIR$/software_architecture_ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webservice/webservice.iml" filepath="$PROJECT_DIR$/webservice/webservice.iml" />
+    </modules>
+  </component>
+</project>
